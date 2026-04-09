@@ -1,0 +1,59 @@
+candidate:
+  full_name: "Ayush Kumar"
+  email: "ayushvermaspn@gmail.com"
+  phone: "+91-7905032371"
+  location: "Noida, India"
+  linkedin: "linkedin.com/in/ayushkumar-dev"
+  portfolio_url: "https://ayushverma.tech"
+  github: "github.com/ayushspn123"
+  twitter: "https://x.com/ayushkumar"
+
+target_roles:
+  primary:
+    - "MERN Stack Developer"
+    - "Software Engineer"
+  archetypes:
+    - name: "MERN Stack Developer"
+      level: "Mid-Level"
+      fit: "primary"
+    - name: "Frontend Engineer"
+      level: "Mid-Level"
+      fit: "secondary"
+    - name: "Full Stack Developer"
+      level: "Mid-Level"
+      fit: "primary"
+
+narrative:
+  headline: "MERN Stack Developer with 1+ year experience building scalable web applications"
+  
+  exit_story: "Built multiple real-world applications including HRMS portal and AI-based tools using MERN stack. Focused on clean UI, performance optimization, and scalable architecture."
+  
+  superpowers:
+    - "Full-stack development using MERN (MongoDB, Express, React, Node)"
+    - "Building modern UI with Next.js, Tailwind & Material UI"
+    - "API integration and performance optimization"
+    - "Problem-solving and debugging in production systems"
+
+  proof_points:
+    - name: "HRMS Portal"
+      url: "https://your-project-link.com"
+      hero_metric: "Built complete system from scratch with employee productivity tracking"
+    - name: "AI Media Analyzer"
+      url: "https://your-project-link.com"
+      hero_metric: "Developed frontend for AI-based media content analysis"
+    - name: "Log Analyzer System"
+      url: "https://your-project-link.com"
+      hero_metric: "Integrated UI with APIs for real-time log monitoring"
+
+compensation:
+  target_range: "10-12 LPA"
+  currency: "INR"
+  minimum: "10 LPA"
+  location_flexibility: "Open to remote and on-site (Noida, Delhi NCR)"
+
+location:
+  country: "India"
+  city: "Noida"
+  timezone: "IST"
+  visa_status: "Not applicable"
+  onsite_availability: "Available for full-time on-site or hybrid roles"
